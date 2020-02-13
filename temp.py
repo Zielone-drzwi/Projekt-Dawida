@@ -10,7 +10,7 @@ import json
 
 try:
 
-    conn = sqlite3.connect('example.db')
+    conn = sqlite3.connect('fejkowa.db')
 
     # This enables column access by name: row['column_name']
     conn.row_factory = sqlite3.Row
@@ -31,7 +31,7 @@ try:
     conn.commit()
 
     # Now fetch back the inserted data and write it to JSON.
-    curs.execute("SELECT * FROM stocks")
+    curs.execute("SELECT * FROM fejkowa LIMIT 0,30")
     recs = curs.fetchall()
 
     print ("DB data as a list with a dict per DB record:")
