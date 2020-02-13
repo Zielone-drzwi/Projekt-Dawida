@@ -17,7 +17,8 @@ try:
    
 
     # odczyt bazy danych 
-    curs.execute("SELECT * FROM fejkowa LIMIT 0,30")
+    #curs.execute("SELECT * FROM fejkowa WHERE data LIKE '2020-01-06%' AND pochylenie = 1")
+    curs.execute("SELECT * FROM fejkowa ORDER BY data DESC LIMIT 30000,30500 ")
     recs = curs.fetchall()
 
     
@@ -31,6 +32,7 @@ try:
     print (rows_json)
     with open('jsonik.json', 'w') as f:
         f.write(rows_json)
+        f.close()
 
 except Exception:
     print ("Wystąpił błąd..") 
