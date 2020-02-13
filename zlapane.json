@@ -1,0 +1,366 @@
+[
+    {'id': 1, 'data': '2020-01-05 02: 29: 42', 'lat': '28.0358435', 'lon': '-20.705770', 'kompas': 53, 'napiecie': 3.3, 'pochylenie': 41, 'przechylenie': 40
+    },
+    {'id': 2, 'data': '2020-01-26 02: 16: 47', 'lat': '46.1632615', 'lon': '78.623233', 'kompas': 312, 'napiecie': 1.4, 'pochylenie': 22, 'przechylenie': 52
+    },
+    {'id': 3, 'data': '2020-02-05 22: 24: 17', 'lat': '76.210279', 'lon': '-141.698914', 'kompas': 221, 'napiecie': 6.3, 'pochylenie': 70, 'przechylenie': 71
+    },
+    {'id': 4, 'data': '2020-02-06 16: 11: 21', 'lat': '-60.7760775', 'lon': '24.569219', 'kompas': 293, 'napiecie': 9.9, 'pochylenie': 63, 'przechylenie': 87
+    },
+    {'id': 5, 'data': '2020-02-08 17: 16: 36', 'lat': '-17.5408805', 'lon': '60.580681', 'kompas': 209, 'napiecie': 4.0, 'pochylenie': 87, 'przechylenie': 41
+    },
+    {'id': 6, 'data': '2020-01-28 19: 55: 58', 'lat': '46.1687605', 'lon': '88.106414', 'kompas': 145, 'napiecie': 4.3, 'pochylenie': 36, 'przechylenie': 20
+    },
+    {'id': 7, 'data': '2020-01-14 16: 04: 38', 'lat': '-3.7985635', 'lon': '-77.737503', 'kompas': 253, 'napiecie': 9.7, 'pochylenie': 45, 'przechylenie': 54
+    },
+    {'id': 8, 'data': '2020-01-01 23: 13: 00', 'lat': '-64.391872', 'lon': '-57.950889', 'kompas': 92, 'napiecie': 7.8, 'pochylenie': 18, 'przechylenie': 71
+    },
+    {'id': 9, 'data': '2020-01-19 08: 51: 42', 'lat': '-80.736804', 'lon': '97.081195', 'kompas': 274, 'napiecie': 5.7, 'pochylenie': 49, 'przechylenie': 78
+    },
+    {'id': 10, 'data': '2020-02-04 13: 14: 52', 'lat': '-58.3888105', 'lon': '-173.779274', 'kompas': 270, 'napiecie': 4.5, 'pochylenie': 84, 'przechylenie': 73
+    },
+    {'id': 11, 'data': '2020-01-07 01: 19: 08', 'lat': '29.965742', 'lon': '71.339757', 'kompas': 54, 'napiecie': 11.4, 'pochylenie': 0, 'przechylenie': 85
+    },
+    {'id': 12, 'data': '2020-01-13 02: 19: 36', 'lat': '20.4628835', 'lon': '88.097151', 'kompas': 335, 'napiecie': 5.9, 'pochylenie': 16, 'przechylenie': 88
+    },
+    {'id': 13, 'data': '2020-02-10 17: 03: 09', 'lat': '32.791620', 'lon': '96.486131', 'kompas': 304, 'napiecie': 8.6, 'pochylenie': 26, 'przechylenie': 2
+    },
+    {'id': 14, 'data': '2020-02-05 02: 58: 37', 'lat': '-74.676488', 'lon': '-31.542211', 'kompas': 179, 'napiecie': 3.8, 'pochylenie': 43, 'przechylenie': 0
+    },
+    {'id': 15, 'data': '2020-01-20 12: 50: 28', 'lat': '43.855772', 'lon': '-50.400620', 'kompas': 311, 'napiecie': 9.1, 'pochylenie': 48, 'przechylenie': 68
+    },
+    {'id': 16, 'data': 
+'2020-01-06 18: 30: 40', 'lat': '-38.2558735', 'lon': '109.203833', 'kompas': 180, 'napiecie': 2.3, 'pochylenie': 7, 'przechylenie': 57
+    },
+    {'id': 17, 'data': '2020-02-07 02: 39: 50', 'lat': '46.5697505', 'lon': '-8.045809', 'kompas': 46, 'napiecie': 8.2, 'pochylenie': 59, 'przechylenie': 54
+    },
+    {'id': 18, 'data': '2020-01-12 16: 27: 08', 'lat': '-51.293313', 'lon': '103.787848', 'kompas': 279, 'napiecie': 3.1, 'pochylenie': 45, 'przechylenie': 15
+    },
+    {'id': 19, 'data': '2020-01-15 02: 54: 05', 'lat': '-52.0028715', 'lon': '10.243250', 'kompas': 77, 'napiecie': 4.1, 'pochylenie': 3, 'przechylenie': 29
+    },
+    {'id': 20, 'data': '2020-01-11 03: 07: 16', 'lat': '31.0604745', 'lon': '-4.670238', 'kompas': 193, 'napiecie': 12.0, 'pochylenie': 81, 'przechylenie': 51
+    },
+    {'id': 21, 'data': '2020-02-07 18: 01: 15', 'lat': '25.9414465', 'lon': '-54.635494', 'kompas': 117, 'napiecie': 10.1, 'pochylenie': 65, 'przechylenie': 41
+    },
+    {'id': 22, 'data': '2020-01-17 14: 08: 04', 'lat': '18.733963', 'lon': '54.169955', 'kompas': 84, 'napiecie': 9.9, 'pochylenie': 84, 'przechylenie': 21
+    },
+    {'id': 23, 'data': '2020-01-19 17: 47: 00', 'lat': '-2.000107', 'lon': '-78.455812', 'kompas': 183, 'napiecie': 7.0, 'pochylenie': 6, 'przechylenie': 80
+    },
+    {'id': 24, 'data': '2020-01-08 11: 58: 04', 'lat': '76.800839', 'lon': '-98.117400', 'kompas': 108, 'napiecie': 0.3, 
+'pochylenie': 27, 'przechylenie': 6
+    },
+    {'id': 25, 'data': '2020-02-04 06: 15: 56', 'lat': '59.736814', 'lon': '71.620887', 'kompas': 261, 'napiecie': 1.1, 'pochylenie': 87, 'przechylenie': 71
+    },
+    {'id': 26, 'data': '2020-01-29 17: 02: 51', 'lat': '-0.463905', 'lon': '-121.536868', 'kompas': 243, 'napiecie': 0.4, 'pochylenie': 36, 'przechylenie': 15
+    },
+    {'id': 27, 'data': '2020-01-19 17: 04: 04', 'lat': '61.3168345', 'lon': '-169.339716', 'kompas': 331, 'napiecie': 1.0, 'pochylenie': 16, 'przechylenie': 33
+    },
+    {'id': 28, 'data': '2020-01-18 09: 02: 13', 'lat': '-50.667004', 'lon': '-110.861765', 'kompas': 328, 'napiecie': 9.5, 'pochylenie': 61, 'przechylenie': 89
+    },
+    {'id': 29, 'data': '2020-01-20 23: 56: 37', 'lat': '54.683266', 'lon': '-33.312894', 'kompas': 326, 'napiecie': 6.5, 'pochylenie': 34, 'przechylenie': 33
+    },
+    {'id': 30, 'data': '2020-01-04 08: 14: 37', 'lat': '48.345694', 'lon': '-28.376202', 'kompas': 19, 'napiecie': 4.5, 'pochylenie': 55, 'przechylenie': 76
+    }
+]
+DB data as a single JSON string: [
+    {
+        "id": 1,
+        "data": "2020-01-05 02:29:42",
+        "lat": "28.0358435",
+        "lon": "-20.705770",
+        "kompas": 53,
+        "napiecie": 3.3,
+        "pochylenie": 41,
+        "przechylenie": 40
+    },
+    {
+        "id": 2,
+        "data": "2020-01-26 02:16:47",
+        "lat": "46.1632615",
+        "lon": "78.623233",
+        "kompas": 312,
+        "napiecie": 1.4,
+        "pochylenie": 22,
+        "przechylenie": 52
+    },
+    {
+        "id": 3,
+        "data": "2020-02-05 22:24:17",
+        "lat": "76.210279",
+        "lon": "-141.698914",
+        "kompas": 221,
+        "napiecie": 6.3,
+        "pochylenie": 70,
+        "przechylenie": 71
+    },
+    {
+        "id": 4,
+        "data": "2020-02-06 16:11:21",
+        "lat": "-60.7760775",
+        "lon": "24.569219",
+        "kompas": 293,
+        "napiecie": 9.9,
+        "pochylenie": 63,
+        "przechylenie": 87
+    },
+    {
+        "id": 5,
+        "data": "2020-02-08 17:16:36",
+        "lat": "-17.5408805",
+        "lon": "60.580681",
+        "kompas": 209,
+        "napiecie": 4.0,
+        "pochylenie": 87,
+        "przechylenie": 41
+    },
+    {
+        "id": 6,
+        "data": "2020-01-28 19:55:58",
+        "lat": "46.1687605",
+        "lon": "88.106414",
+        "kompas": 145,
+        "napiecie": 4.3,
+        "pochylenie": 36,
+        "przechylenie": 20
+    },
+    {
+        "id": 7,
+        "data": "2020-01-14 16:04:38",
+        "lat": "-3.7985635",
+        "lon": "-77.737503",
+        "kompas": 253,
+        "napiecie": 9.7,
+        "pochylenie": 45,
+        "przechylenie": 54
+    },
+    {
+        "id": 8,
+        "data": "2020-01-01 23:13:00",
+        "lat": "-64.391872",
+        "lon": "-57.950889",
+        "kompas": 92,
+        "napiecie": 7.8,
+        "pochylenie": 18,
+        "przechylenie": 71
+    },
+    {
+        "id": 9,
+        "data": "2020-01-19 08:51:42",
+        "lat": "-80.736804",
+        "lon": "97.081195",
+        "kompas": 274,
+        "napiecie": 5.7,
+        "pochylenie": 49,
+        "przechylenie": 78
+    },
+    {
+        "id": 10,
+        "data": "2020-02-04 13:14:52",
+        "lat": "-58.3888105",
+        "lon": "-173.779274",
+        "kompas": 270,
+        "napiecie": 4.5,
+        "pochylenie": 84,
+        "przechylenie": 73
+    },
+    {
+        "id": 11,
+        "data": "2020-01-07 01:19:08",
+        "lat": "29.965742",
+        "lon": "71.339757",
+        "kompas": 54,
+        "napiecie": 11.4,
+        "pochylenie": 0,
+        "przechylenie": 85
+    },
+    {
+        "id": 12,
+        "data": "2020-01-13 02:19:36",
+        "lat": "20.4628835",
+        "lon": "88.097151",
+        "kompas": 335,
+        "napiecie": 5.9,
+        "pochylenie": 16,
+        "przechylenie": 88
+    },
+    {
+        "id": 13,
+        "data": "2020-02-10 17:03:09",
+        "lat": "32.791620",
+        "lon": "96.486131",
+        "kompas": 304,
+        "napiecie": 8.6,
+        "pochylenie": 26,
+        "przechylenie": 2
+    },
+    {
+        "id": 14,
+        "data": "2020-02-05 02:58:37",
+        "lat": "-74.676488",
+        "lon": "-31.542211",
+        "kompas": 179,
+        "napiecie": 3.8,
+        "pochylenie": 43,
+        "przechylenie": 0
+    },
+    {
+        "id": 15,
+        "data": "2020-01-20 12:50:28",
+        "lat": "43.855772",
+        "lon": "-50.400620",
+        "kompas": 311,
+        "napiecie": 9.1,
+        "pochylenie": 48,
+        "przechylenie": 68
+    },
+    {
+        "id": 16,
+        "data": "2020-01-06 18:30:40",
+        "lat": "-38.2558735",
+        "lon": "109.203833",
+        "kompas": 180,
+        "napiecie": 2.3,
+        "pochylenie": 7,
+        "przechylenie": 57
+    },
+    {
+        "id": 17,
+        "data": "2020-02-07 02:39:50",
+        "lat": "46.5697505",
+        "lon": "-8.045809",
+        "kompas": 46,
+        "napiecie": 8.2,
+        "pochylenie": 59,
+        "przechylenie": 54
+    },
+    {
+        "id": 18,
+        "data": "2020-01-12 16:27:08",
+        "lat": "-51.293313",
+        "lon": "103.787848",
+        "kompas": 279,
+        "napiecie": 3.1,
+        "pochylenie": 45,
+        "przechylenie": 15
+    },
+    {
+        "id": 19,
+        "data": "2020-01-15 02:54:05",
+        "lat": "-52.0028715",
+        "lon": "10.243250",
+        "kompas": 77,
+        "napiecie": 4.1,
+        "pochylenie": 3,
+        "przechylenie": 29
+    },
+    {
+        "id": 20,
+        "data": "2020-01-11 03:07:16",
+        "lat": "31.0604745",
+        "lon": "-4.670238",
+        "kompas": 193,
+        "napiecie": 12.0,
+        "pochylenie": 81,
+        "przechylenie": 51
+    },
+    {
+        "id": 21,
+        "data": "2020-02-07 18:01:15",
+        "lat": "25.9414465",
+        "lon": "-54.635494",
+        "kompas": 117,
+        "napiecie": 10.1,
+        "pochylenie": 65,
+        "przechylenie": 41
+    },
+    {
+        "id": 22,
+        "data": "2020-01-17 14:08:04",
+        "lat": "18.733963",
+        "lon": "54.169955",
+        "kompas": 84,
+        "napiecie": 9.9,
+        "pochylenie": 84,
+        "przechylenie": 21
+    },
+    {
+        "id": 23,
+        "data": "2020-01-19 17:47:00",
+        "lat": "-2.000107",
+        "lon": "-78.455812",
+        "kompas": 183,
+        "napiecie": 7.0,
+        "pochylenie": 6,
+        "przechylenie": 80
+    },
+    {
+        "id": 24,
+        "data": "2020-01-08 11:58:04",
+        "lat": "76.800839",
+        "lon": "-98.117400",
+        "kompas": 108,
+        "napiecie": 0.3,
+        "pochylenie": 27,
+        "przechylenie": 6
+    },
+    {
+        "id": 25,
+        "data": "2020-02-04 06:15:56",
+        "lat": "59.736814",
+        "lon": "71.620887",
+        "kompas": 261,
+        "napiecie": 1.1,
+        "pochylenie": 87,
+        "przechylenie": 71
+    },
+    {
+        "id": 26,
+        "data": "2020-01-29 17:02:51",
+        "lat": "-0.463905",
+        "lon": "-121.536868",
+        "kompas": 243,
+        "napiecie": 0.4,
+        "pochylenie": 36,
+        "przechylenie": 15
+    },
+    {
+        "id": 27,
+        "data": "2020-01-19 17:04:04",
+        "lat": "61.3168345",
+        "lon": "-169.339716",
+        "kompas": 331,
+        "napiecie": 1.0,
+        "pochylenie": 16,
+        "przechylenie": 33
+    },
+    {
+        "id": 28,
+        "data": "2020-01-18 09:02:13",
+        "lat": "-50.667004",
+        "lon": "-110.861765",
+        "kompas": 328,
+        "napiecie": 9.5,
+        "pochylenie": 61,
+        "przechylenie": 89
+    },
+    {
+        "id": 29,
+        "data": "2020-01-20 23:56:37",
+        "lat": "54.683266",
+        "lon": "-33.312894",
+        "kompas": 326,
+        "napiecie": 6.5,
+        "pochylenie": 34,
+        "przechylenie": 33
+    },
+    {
+        "id": 30,
+        "data": "2020-01-04 08:14:37",
+        "lat": "48.345694",
+        "lon": "-28.376202",
+        "kompas": 19,
+        "napiecie": 4.5,
+        "pochylenie": 55,
+        "przechylenie": 76
+    }
+]
