@@ -8,6 +8,7 @@ RECORD_COUNT = 100000
 fake = Faker()
 
 # generuje sto tysięcy rekordów zeby zobaczyc ile to miejsca zajmuje. 
+# sprawdziłem. 15 MB
 
 def create_csv_file():
     with open('invoices.csv', 'w', newline='') as csvfile:
