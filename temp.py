@@ -45,6 +45,6 @@ try:
     print (rows_json)
 
 except Exception:
-    print ("ERROR: Caught exception: ") + repr(e)
-    raise e
+    print ("ERROR: Caught exception: ") 
+    
     sys.exit(1)
