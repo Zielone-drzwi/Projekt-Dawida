@@ -28,6 +28,7 @@ for _ in range(100000):
     con.commit()
     print(rekord)
     rekord = (rekord+1)
+con.close()    
 # odczyt danych z bazy 
 print('--------------------ODCZYT Z BAZY SQLITE---------------')
 for row in con.execute("SELECT * from fejkowa"):
